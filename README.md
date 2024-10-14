@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Halyna
 
-<!--
-**Marchenko1997/Marchenko1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Fullstack Developer with a passion for building impactful and dynamic web applications. I thrive on turning complex ideas into functional and aesthetically pleasing digital solutions.My goal is to craft seamless user experiences while continually sharpening my skills in development. 
 
-Here are some ideas to get you started:
+### "The only way to do great work is to love what you do." — Steve Jobs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/halyna-marchenko)
+- [![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:marchenkohalyna888@gmail.com)
+
+### Languages and Tools:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+
