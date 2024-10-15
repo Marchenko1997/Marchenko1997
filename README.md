@@ -10,14 +10,14 @@ I'm a Junior Fullstack Developer with a passion for building impactful and dynam
 
 ### Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
 
