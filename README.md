@@ -10,7 +10,7 @@ I'm a Junior Fullstack Developer with a passion for building impactful and dynam
 
 ### Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![HTML5]([https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png))
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript)
