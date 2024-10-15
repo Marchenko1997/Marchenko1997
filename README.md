@@ -5,8 +5,14 @@ I'm a Junior Fullstack Developer with a passion for building impactful and dynam
 ### "The only way to do great work is to love what you do." — Steve Jobs
 
 ### Connect with me:
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/halyna-marchenko)
-- [![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:marchenkohalyna888@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/halyna-marchenko">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:marchenkohalyna888@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
 
 ### Languages and Tools:
 
