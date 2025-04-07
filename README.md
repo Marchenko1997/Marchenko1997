@@ -1,4 +1,4 @@
-# Hi 👋, I'm Halyna
+
 
 I'm a Junior Fullstack Developer with a passion for building impactful and dynamic web applications. I thrive on turning complex ideas into functional and aesthetically pleasing digital solutions.My goal is to craft seamless user experiences while continually sharpening my skills in development. 
 
