@@ -4,11 +4,6 @@ I'm a Junior Fullstack Developer with a passion for building impactful and dynam
 
 ### "The only way to do great work is to love what you do." — Steve Jobs
 
-### Connect with me:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halyna-marchenko)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marchenkohalyna888@gmail.com)
-
 
 ### Languages and Tools:
 
